@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HabibaAmr\\source\\repos\\CRUDop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94933D35-F529-4F0B-9822-F5969658415A}|CRUDop\\CRUDop.csproj|C:\\Users\\HabibaAmr\\source\\repos\\CRUDop\\crudop\\page1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94933D35-F529-4F0B-9822-F5969658415A}|CRUDop\\CRUDop.csproj|solutionrelative:crudop\\page1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94933D35-F529-4F0B-9822-F5969658415A}|CRUDop\\CRUDop.csproj|C:\\Users\\HabibaAmr\\source\\repos\\CRUDop\\crudop\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{94933D35-F529-4F0B-9822-F5969658415A}|CRUDop\\CRUDop.csproj|solutionrelative:crudop\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94933D35-F529-4F0B-9822-F5969658415A}|CRUDop\\CRUDop.csproj|c:\\users\\habibaamr\\source\\repos\\crudop\\crudop\\page1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{94933D35-F529-4F0B-9822-F5969658415A}|CRUDop\\CRUDop.csproj|solutionrelative:crudop\\page1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94933D35-F529-4F0B-9822-F5969658415A}|CRUDop\\CRUDop.csproj|c:\\users\\habibaamr\\source\\repos\\crudop\\crudop\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{94933D35-F529-4F0B-9822-F5969658415A}|CRUDop\\CRUDop.csproj|solutionrelative:crudop\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94933D35-F529-4F0B-9822-F5969658415A}|CRUDop\\CRUDop.csproj|C:\\Users\\HabibaAmr\\source\\repos\\CRUDop\\crudop\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{94933D35-F529-4F0B-9822-F5969658415A}|CRUDop\\CRUDop.csproj|solutionrelative:crudop\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94933D35-F529-4F0B-9822-F5969658415A}|CRUDop\\CRUDop.csproj|C:\\Users\\HabibaAmr\\source\\repos\\CRUDop\\crudop\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94933D35-F529-4F0B-9822-F5969658415A}|CRUDop\\CRUDop.csproj|solutionrelative:crudop\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 382,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\HabibaAmr\\source\\repos\\CRUDop\\CRUDop\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "CRUDop\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\HabibaAmr\\source\\repos\\CRUDop\\CRUDop\\MainWindow.xaml",
+              "RelativeToolTip": "CRUDop\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-15T15:54:23.692Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\HabibaAmr\\source\\repos\\CRUDop\\CRUDop\\App.xaml",
+              "RelativeDocumentMoniker": "CRUDop\\App.xaml",
+              "ToolTip": "C:\\Users\\HabibaAmr\\source\\repos\\CRUDop\\CRUDop\\App.xaml",
+              "RelativeToolTip": "CRUDop\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-16T07:34:30.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Page1.xaml",
+              "DocumentMoniker": "C:\\Users\\HabibaAmr\\source\\repos\\CRUDop\\CRUDop\\Page1.xaml",
+              "RelativeDocumentMoniker": "CRUDop\\Page1.xaml",
+              "ToolTip": "C:\\Users\\HabibaAmr\\source\\repos\\CRUDop\\CRUDop\\Page1.xaml",
+              "RelativeToolTip": "CRUDop\\Page1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-15T17:18:27.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Page1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\HabibaAmr\\source\\repos\\CRUDop\\CRUDop\\Page1.xaml.cs",
+              "RelativeDocumentMoniker": "CRUDop\\Page1.xaml.cs",
+              "ToolTip": "C:\\Users\\HabibaAmr\\source\\repos\\CRUDop\\CRUDop\\Page1.xaml.cs",
+              "RelativeToolTip": "CRUDop\\Page1.xaml.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAkwEIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T18:41:47.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\HabibaAmr\\source\\repos\\CRUDop\\CRUDop\\Model1.edmx",
+              "RelativeDocumentMoniker": "CRUDop\\Model1.edmx",
+              "ToolTip": "C:\\Users\\HabibaAmr\\source\\repos\\CRUDop\\CRUDop\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "CRUDop\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-11-15T18:40:58.381Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\HabibaAmr\\source\\repos\\CRUDop\\CRUDop\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CRUDop\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\HabibaAmr\\source\\repos\\CRUDop\\CRUDop\\MainWindow.xaml.cs",
+              "RelativeToolTip": "CRUDop\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T15:54:20.795Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
